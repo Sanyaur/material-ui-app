@@ -1,9 +1,13 @@
+import { Container } from '@material-ui/core';
 import React from 'react';
+import GridContent from './components/GridContent';
 
 function App() {
   return (
     <div>
-      Text
+      <Container>
+        <GridContent />
+      </Container>
     </div>
   );
 }
