@@ -49,7 +49,7 @@ export default function FullWidthGrid() {
                         <CardCat
                             header="Cat"
                             detailText="Cats are cute, everybody love cats"
-                            learnURL="https://en.wikipedia.org/wiki/Dogs" />
+                            learnURL="https://en.wikipedia.org/wiki/Cat" />
                     </Box>
                 </Grid>
                 <Grid item xs={6} sm={3}>
